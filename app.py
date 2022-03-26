@@ -11,8 +11,6 @@ from tensorflow.keras.models import load_model, model_from_json
 from tensorflow.keras.preprocessing import image
 from PIL import Image
 
-print(tf.__version__)
-
 # Flask utils
 from flask import Flask, url_for, render_template, request,send_from_directory,redirect
 from werkzeug.utils import secure_filename
