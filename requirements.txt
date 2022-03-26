@@ -28,12 +28,9 @@ opencv-python==4.5.1.48
 opt-einsum==3.2.1
 pandas==1.1.5
 Pillow==8.0.1
-playmusic==0.5
-playsound==1.2.2
 protobuf==3.12.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio==0.2.11
 pypng==0.0.20
 PyQRCode==1.2.1
 PyQt5==5.14.1
@@ -48,7 +45,6 @@ rsa==4.0
 scipy==1.4.1
 six==1.15.0
 soupsieve==1.9.5
-SpeechRecognition==3.8.1
 tensorboard==2.3.0
 tensorboard-plugin-wit==1.6.0.post3
 tensorflow==2.3.1
