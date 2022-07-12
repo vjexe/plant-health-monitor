@@ -43,7 +43,7 @@ def info():
 
 def model_predict(img_path):
     # load image with target size
-    img = image.load_img(img_path, target_size=(256, 256))
+    img = image.load_img(img_path, target_size=(64, 64))
     # convert to array
     img = image.img_to_array(img)
     # normalize the array
